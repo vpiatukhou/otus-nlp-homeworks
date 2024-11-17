@@ -1,0 +1,7 @@
+/data
+.venv
+.vscode
+.ipynb_checkpoints
+catboost_info
+data
+jupyter-erros.txt
